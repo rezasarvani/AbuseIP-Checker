@@ -8,7 +8,7 @@ the free API limitation is "1,000 IP Checks & Reports / Day", if you want to byp
 and then add the APIs in a txt list (1 API per line) and feed it to the tool
 
 # How To Use It
-They are only couple of switches you need to know about the tool<br/>
+They are only couple of switches to learn in order to use the tool.<br/>
 
 ### Input File (Mandatory):
 Using -i or --input, you need to specify input IP list file path name.<br/>
