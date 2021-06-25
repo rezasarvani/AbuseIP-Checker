@@ -31,5 +31,10 @@ Using -a or --apikey, you need to feed your single API key to the tool.<br/>
 Using -d or --maxage, you need to specify your max age for reports (day).<br/>
 * Default value is 30days
 
+### Filter Country (Optional):
+Using -f or --filter, you can specify single or multiple country code, so that ip geolocation get checked before passing it to the AbuseIP API
+* Single Country Code: -f "JP"
+* Multiple Country Code: -f "JP,IR,US"
+
 ## Example:
-* python main.py -i "input.txt" -a "86frh80dd21b....66aayhe6a4" -o "outputfile.csv" -d 35
+* python main.py -i "input.txt" -a "86frh80dd21b....66aayhe6a4" -o "outputfile.csv" -d 35 -f "JP"
