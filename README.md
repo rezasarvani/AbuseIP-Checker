@@ -37,4 +37,4 @@ Using -f or --filter, you can specify single or multiple country code, so that i
 * Multiple Country Code: -f "JP,IR,US"
 
 ## Example:
-* python main.py -i "input.txt" -a "86frh80dd21b....66aayhe6a4" -o "outputfile.csv" -d 35 -f "JP"
+* python AbuseIPChecker.py -i "input.txt" -a "86frh80dd21b....66aayhe6a4" -o "outputfile.csv" -d 35 -f "JP"
