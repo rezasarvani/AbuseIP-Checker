@@ -1,5 +1,5 @@
 # AbuseIPChecker
-Check IP Address List Malicious Status Using AbuseIP Database.<br/>
+Check IP Address Malicious Status Using AbuseIP Database.<br/>
 If You Want To Check A List Of IP Addresses To See If They Are Malicious Using AbuseIP Database, You Can Simply Use This Code And Rest In Peace...!
 
 # How Does It Work?
